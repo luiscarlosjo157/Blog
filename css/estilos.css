@@ -37,3 +37,15 @@ body
 {
     font-size: 20px;
 }
+
+.footer{
+    background: rgb(48, 43, 43);
+    text-align: left;
+}
+ul li {
+    color: white;
+}
+
+h3 {
+    color: bisque;
+}
