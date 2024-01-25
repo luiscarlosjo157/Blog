@@ -1,6 +1,6 @@
 body
 {   
-    color: #333;
+    color: #ab8b8b;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -39,7 +39,7 @@ body
 }
 
 .footer{
-    background: rgb(48, 43, 43);
+    background: rgb(79, 10, 190);
     text-align: left;
 }
 ul li {
@@ -47,5 +47,5 @@ ul li {
 }
 
 h3 {
-    color: bisque;
+    color: rgb(233, 232, 231);
 }
